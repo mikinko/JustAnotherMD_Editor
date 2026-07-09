@@ -1,0 +1,18 @@
+{
+  "label": "Nord",
+  "mode": "dark",
+  "vars": {
+    "bg": "#2e3440",
+    "fg": "#d8dee9",
+    "muted": "#7b88a1",
+    "line": "#3b4252",
+    "panel": "#3b4252",
+    "code": "#3b4252",
+    "accent": "#88c0d0",
+    "quote": "#7b88a1",
+    "mark": "#ebcb8b",
+    "progress": "#88c0d0",
+    "header": "#2b303b",
+    "brand": "linear-gradient(135deg, #88c0d0, #81a1c1)"
+  }
+}

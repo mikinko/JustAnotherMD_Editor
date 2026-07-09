@@ -1,0 +1,18 @@
+{
+  "label": "Tokyo Night",
+  "mode": "dark",
+  "vars": {
+    "bg": "#1a1b26",
+    "fg": "#a9b1d6",
+    "muted": "#565f89",
+    "line": "#2a2e42",
+    "panel": "#1f2335",
+    "code": "#1f2335",
+    "accent": "#7aa2f7",
+    "quote": "#565f89",
+    "mark": "#3d3a23",
+    "progress": "#bb9af7",
+    "header": "#16161e",
+    "brand": "linear-gradient(135deg, #7aa2f7, #bb9af7)"
+  }
+}

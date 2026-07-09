@@ -1,0 +1,8 @@
+#include "resource.h"
+
+IDI_APPICON ICON "app.ico"
+
+IDR_INDEX_HTML RCDATA "index.html"
+IDR_LOGO_PNG RCDATA "logo.png"
+
+1 24 "app.manifest"

@@ -1,0 +1,18 @@
+{
+  "label": "Solarized Dark",
+  "mode": "dark",
+  "vars": {
+    "bg": "#002b36",
+    "fg": "#93a1a1",
+    "muted": "#586e75",
+    "line": "#073642",
+    "panel": "#073642",
+    "code": "#073642",
+    "accent": "#268bd2",
+    "quote": "#586e75",
+    "mark": "#564a1a",
+    "progress": "#2aa198",
+    "header": "#022f3a",
+    "brand": "linear-gradient(135deg, #268bd2, #2aa198)"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "label": "One Dark",
+  "mode": "dark",
+  "vars": {
+    "bg": "#282c34",
+    "fg": "#abb2bf",
+    "muted": "#5c6370",
+    "line": "#3b4048",
+    "panel": "#21252b",
+    "code": "#21252b",
+    "accent": "#61afef",
+    "quote": "#5c6370",
+    "mark": "#3a3520",
+    "progress": "#c678dd",
+    "header": "#21252b",
+    "brand": "linear-gradient(135deg, #61afef, #c678dd)"
+  }
+}

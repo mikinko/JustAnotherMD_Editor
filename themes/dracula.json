@@ -1,0 +1,18 @@
+{
+  "label": "Dracula",
+  "mode": "dark",
+  "vars": {
+    "bg": "#282a36",
+    "fg": "#f8f8f2",
+    "muted": "#6272a4",
+    "line": "#44475a",
+    "panel": "#21222c",
+    "code": "#21222c",
+    "accent": "#bd93f9",
+    "quote": "#6272a4",
+    "mark": "#ffb86c",
+    "progress": "#ff79c6",
+    "header": "#21222c",
+    "brand": "linear-gradient(135deg, #bd93f9, #ff79c6)"
+  }
+}

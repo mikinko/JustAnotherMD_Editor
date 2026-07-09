@@ -1,0 +1,18 @@
+{
+  "label": "Solarized Light",
+  "mode": "light",
+  "vars": {
+    "bg": "#fdf6e3",
+    "fg": "#586e75",
+    "muted": "#93a1a1",
+    "line": "#eee8d5",
+    "panel": "#eee8d5",
+    "code": "#eee8d5",
+    "accent": "#268bd2",
+    "quote": "#93a1a1",
+    "mark": "#fbe3a1",
+    "progress": "#268bd2",
+    "header": "#eee8d5",
+    "brand": "linear-gradient(135deg, #268bd2, #2aa198)"
+  }
+}

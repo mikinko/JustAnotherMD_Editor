@@ -9,8 +9,11 @@ Viewer‑first, fully offline, no install — one native `.exe` powered by Win32
 Editor as add-on for Total Commander viewer plugin WLX at [JAMD-WLX](https://github.com/mikinko/JustAnotherMarkdown_lister_WLX)
 
 </div>
-**Added TAB multi file option**<br>  
-**Added YAML / TOML support**<br>
+
+**Added TAB multi file option**
+
+**Added YAML / TOML support**
+
 ---
 
 ![Split editor with formatting toolbar](scrshot/split-view.png)
